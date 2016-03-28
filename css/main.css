@@ -10,3 +10,8 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
+
+@media only screen and (min-width: 500px) {
+
+
+}
